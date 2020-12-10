@@ -5,6 +5,9 @@ git clone git@github.com:DaniiloLacerda/serverlessWithMongoExample.git
 ## set DB URL in environment
 insert your DBURL in variable on the file variables.env
 
+## isntall dependencies
+    npm install
+
 ## start serverless offline 
     sls offline start --skipCacheInvalidation
 
