@@ -1,6 +1,6 @@
-## clone the projetc
+## clone this projetc
 
-git clone
+git clone git@github.com:DaniiloLacerda/serverlessWithMongoExample.git
 
 ## set DB URL in environment
 insert your DBURL in variable on the file variables.env
